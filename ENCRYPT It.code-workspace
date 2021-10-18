@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"Themes/flatlaf-0.44.jar",
+			"Themes/flatlaf-swingx-0.44.jar",
+			"Themes/swingx-all-1.6.5-1.jar",
+			// "Themes/flatlaf-0.44.jar"
+		],
+		"java.project.sourcePaths": [
+			"src/encryption"
+		],
+		// "java.project.sourcePaths": [
+		// 	"src/encryption"
+		// ],
+		// "java.project.sourcePaths": [
+		// 	"src/encryption"
+		// ]
+	}
+}

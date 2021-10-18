@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Themes/flatlaf-0.44.jar"
+    ]
+}
